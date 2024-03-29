@@ -42,7 +42,7 @@ VARIABLE:                  DESCRIPTION <br>
 
 ## CTmin.csv
 
-We exposed each worm to a gradual temperature decrease and recorded the CTmin (Critical Thermal Minimum): the tempreature at which voluntary movement ceased.
+We exposed each worm to a gradual temperature decrease and recorded the CTmin (Critical Thermal Minimum): the temperature at which voluntary movement ceased.
 
 VARIABLE:                  DESCRIPTION <br>
 #Date Collected:           Date of field collection in dd-mmm-yy format<br>
@@ -51,3 +51,13 @@ VARIABLE:                  DESCRIPTION <br>
 #CTmin:                    Temperature (in °C) at which CTmin occurred<br>
 #Mass:                     Mass (in grams) of each worm<br>
 
+## SCP.csv
+
+We exposed each worm to a gradual temperature decrease and recorded the SCP (Supercooling Point): the temperature at which internal ice formation began.
+
+VARIABLE:                  DESCRIPTION <br>
+#Date Collected:           Date of field collection in dd-mmm-yy format<br>
+#Date Expt:                Date of of the experiment (cold exposure) in dd-mmm-yy format<br>
+#Treatment:                Whether worms were summer-acclimated or fall-acclimated prior to the cold shock<br>
+#SCP:                      Temperature (in °C) at which SCP occurred<br>
+#Mass:                     Mass (in grams) of each worm<br>
