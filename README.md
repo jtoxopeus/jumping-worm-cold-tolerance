@@ -14,7 +14,7 @@ These are used for statistical analysis and figure generation in the RCode file.
 
 We exposed groups of 8 worms to the indicated low temperatures for 1 h and measured survival post-cold shock.
 
-VARIABLE:									DESCRIPTION <br>
+VARIABLE:                  DESCRIPTION <br>
 #Date Collected:           Date of field collection in dd-mmm-yy format<br>
 #Date Expt:                Date of of the experiment (cold exposure) in dd-mmm-yy format<br>
 #Treatment:                Whether worms were summer-acclimated or fall-acclimated prior to the cold shock<br>
@@ -39,3 +39,15 @@ VARIABLE:                  DESCRIPTION <br>
 #NDead:                    Number of worms that were dead after chilling for the indicated duration<br>
 #PAlive:                   Proportion of worms that were alive after chilling for the indicated duration<br>
 #SEP:                      Standard error of proportion of living worms<br>
+
+## CTmin.csv
+
+We exposed each worm to a gradual temperature decrease and recorded the CTmin (Critical Thermal Minimum): the tempreature at which voluntary movement ceased.
+
+VARIABLE:                  DESCRIPTION <br>
+#Date Collected:           Date of field collection in dd-mmm-yy format<br>
+#Date Expt:                Date of of the experiment (cold exposure) in dd-mmm-yy format<br>
+#Treatment:                Whether worms were summer-acclimated or fall-acclimated prior to the cold shock<br>
+#CTmin:                    Temperature (in °C) at which CTmin occurred<br>
+#Mass:                     Mass (in grams) of each worm<br>
+
