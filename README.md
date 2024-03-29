@@ -1,7 +1,8 @@
 # jumping-worm-cold-tolerance
 
-These data files and code are associated with the manuscript 
-"Invasive adult jumping worms in New Brunswick, Canada are chill-susceptible"
+These data files and code are associated with the scientific article 
+"Invasive adult jumping worms in New Brunswick, Canada are chill-susceptible."<br>
+This material is under the same copyright protections as the article itself.
 
 # RCode file
 The code can be run in R v4.0.3, and was used to conduct statistical analysis and generate the manuscript figures from the data files below. (Recommendation: use RStudio for easier visualization of figures.)
