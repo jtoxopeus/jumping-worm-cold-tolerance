@@ -14,7 +14,7 @@ These are used for statistical analysis and figure generation in the RCode file.
 
 We exposed groups of 8 worms to the indicated low temperatures for 1 h and measured survival post-cold shock.
 
-VARIABLE:                  DESCRIPTION <br>
+VARIABLE:									DESCRIPTION <br>
 #Date Collected:           Date of field collection in dd-mmm-yy format<br>
 #Date Expt:                Date of of the experiment (cold exposure) in dd-mmm-yy format<br>
 #Treatment:                Whether worms were summer-acclimated or fall-acclimated prior to the cold shock<br>
